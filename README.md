@@ -8,6 +8,7 @@ Fun screen saver projects for Windows
 ## Features
 
 - Plays episode 1 fully.
+- HUD has been removed to prevent screen burn-in. Animated DOOM guy switches sides periodically for the same reason.
 - Everything is contained in one .scr file. EVERYTHING!
 - Very easy on CPU cycles, will not burn your CPU.
 - Settings window to control Audio options.
